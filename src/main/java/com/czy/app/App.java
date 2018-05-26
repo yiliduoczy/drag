@@ -14,6 +14,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @MapperScan("com.czy.mapper")
 public class App {
 	public static void main(String[] args) {
-		SpringApplication.run(App.class, args);//test
+		SpringApplication.run(App.class, args);//test2
 	}
 }
